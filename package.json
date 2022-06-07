@@ -1,0 +1,24 @@
+{
+  "name": "awesome-bookses6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gasangw/Awesome-BooksES6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gasangw/Awesome-BooksES6/issues"
+  },
+  "homepage": "https://github.com/gasangw/Awesome-BooksES6#readme",
+  "devDependencies": {
+    "postcss": "^8.4.14",
+    "sugarss": "^4.0.1"
+  }
+}
