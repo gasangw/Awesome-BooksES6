@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/gasangw/Awesome-BooksES6/issues"
   },
-  "homepage": "https://github.com/gasangw/Awesome-BooksES6#readme"
+  "homepage": "https://github.com/gasangw/Awesome-BooksES6#readme",
+  "devDependencies": {
+    "postcss": "^8.4.14",
+    "sugarss": "^4.0.1"
+  }
 }
